@@ -1,0 +1,1 @@
+Each model trained saves into this folder, within in its own folder that has a time log for its training, the pickled vectorizer used for it, and the pickled model itself, and the corpus it was trained on. When tested, an image of the confusion matrix and a text score summary are also added.
